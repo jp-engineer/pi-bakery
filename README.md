@@ -1,0 +1,2 @@
+# pi-bakery
+### A cross-platform utility for flashing multiple Raspberry Pi SD cards with minimal user-input. Configurations are defined once at the start of the process before pi-bakery then sequentially flashes the cards, only prompting the user when a new one needs inserting.
